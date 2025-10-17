@@ -12,7 +12,7 @@ public class UserController {
     private List<String> users = new ArrayList<>();
 
     public UserController() {
-        users.add("Nikita Churakov");
+        users.add("Никита Чураков");
         users.add("Петр Петров");
         users.add("Мария Сидорова");
     }
